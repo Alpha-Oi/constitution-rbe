@@ -1,8 +1,8 @@
-# constitution-rbe v3.21
+# constitution-rbe v3.23
 
-![Version](https://img.shields.io/badge/version-3.21-blue)
-![Files](https://img.shields.io/badge/files-72-green)
-![Modules](https://img.shields.io/badge/modules-37-orange)
+![Version](https://img.shields.io/badge/version-3.23-blue)
+![Files](https://img.shields.io/badge/files-73-green)
+![Modules](https://img.shields.io/badge/modules-38-orange)
 ![Status](https://img.shields.io/badge/status-complete-yellow)
 ![License](https://img.shields.io/badge/license-conceptual-lightgrey)
 
@@ -327,6 +327,7 @@
 - [constitution/30-numbers.md](constitution/30-numbers.md) - расчёты
 
 **Для спонсора:** бизнес-план, финансы, договор, VISUAL.
+**Автономия:** [constitution/39-autonomy.md](constitution/39-autonomy.md) - стратегическая автономия.
 **Для юриста:** устав, законы, чек-лист (26), минимум прав.
 **Для жителя:** устав, труд (03a), э-демократия (02a).
 **Для команды:** дорожная карта (25), чек-лист (26), участок (31).
@@ -334,5 +335,6 @@
 **Все модули:** constitution/ - 37 файлов.
 **Опыт:** experience/lessons.md - 22 урока.
 **Справочники:** reference/ - 12 файлов.
+
 
 
