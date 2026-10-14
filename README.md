@@ -1,7 +1,7 @@
-# constitution-rbe v3.15
+# constitution-rbe v3.21
 
-![Version](https://img.shields.io/badge/version-3.15-blue)
-![Files](https://img.shields.io/badge/files-71-green)
+![Version](https://img.shields.io/badge/version-3.21-blue)
+![Files](https://img.shields.io/badge/files-72-green)
 ![Modules](https://img.shields.io/badge/modules-37-orange)
 ![Status](https://img.shields.io/badge/status-complete-yellow)
 ![License](https://img.shields.io/badge/license-conceptual-lightgrey)
@@ -334,4 +334,5 @@
 **Все модули:** constitution/ - 37 файлов.
 **Опыт:** experience/lessons.md - 22 урока.
 **Справочники:** reference/ - 12 файлов.
+
 
