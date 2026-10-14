@@ -1,6 +1,6 @@
-# constitution-rbe v3.28
+# constitution-rbe v3.36
 
-![Version](https://img.shields.io/badge/version-3.28-blue)
+![Version](https://img.shields.io/badge/version-3.36-blue)
 ![Files](https://img.shields.io/badge/files-84-green)
 ![Modules](https://img.shields.io/badge/modules-49-orange)
 ![Status](https://img.shields.io/badge/status-complete-yellow)
@@ -331,7 +331,7 @@
 **Международная стратегия:** [constitution/40-international-strategy.md](constitution/40-international-strategy.md) - площадки (ОАЭ, Мексика, Китай, Казахстан).
 **Агроадаптация:** [constitution/41-agro-adaptation.md](constitution/41-agro-adaptation.md) - NUS, культуры под разные климаты.
 **Культурная адаптация:** [constitution/42-cultural-adaptation.md](constitution/42-cultural-adaptation.md) - язык, кухня, религия, право.
-**Стратегические модули (43-50):** отбор жителей, управление проектом, финансовая устойчивость, правовые вариации, коммуникации, эволюция устава, работа с фондами, найм команды.
+**Стратегические модули (43-50):** отбор жителей, управление проектом, финансовая устойчивость, правовые вариации, коммуникации, эволюция устава, работа с фондами, найм команды. **Все 8 наполнены.**
 **Для юриста:** устав, законы, чек-лист (26), минимум прав.
 **Для жителя:** устав, труд (03a), э-демократия (02a).
 **Для команды:** дорожная карта (25), чек-лист (26), участок (31).
@@ -339,6 +339,7 @@
 **Все модули:** constitution/ - 54 файла.
 **Опыт:** experience/lessons.md - 22 урока.
 **Справочники:** reference/ - 12 файлов.
+
 
 
 
