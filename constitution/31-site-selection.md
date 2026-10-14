@@ -1,3 +1,5 @@
+> **Внимание:** Россия — один из вариантов. См. [40-international-strategy.md](40-international-strategy.md).
+
 # Модуль 31. Выбор участка
 
 Режим: гибридный
