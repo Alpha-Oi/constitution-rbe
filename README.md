@@ -1,6 +1,6 @@
-# constitution-rbe v3.23
+# constitution-rbe v3.24
 
-![Version](https://img.shields.io/badge/version-3.23-blue)
+![Version](https://img.shields.io/badge/version-3.24-blue)
 ![Files](https://img.shields.io/badge/files-73-green)
 ![Modules](https://img.shields.io/badge/modules-38-orange)
 ![Status](https://img.shields.io/badge/status-complete-yellow)
@@ -19,8 +19,8 @@
 
 **Структурно и содержательно завершён.**
 
-- **64 файла.**
-- **34 модуля constitution.**
+- **73 файла.**
+- **54 файла в `constitution/`** (53 модуля и таблица CSV).
 - **12 справочников.**
 - **22 урока.**
 - **Все модули социальной сферы (09–29)** развёрнуты в полные тексты.
@@ -49,7 +49,7 @@
 - `README.md` — этот файл.
 - `SKILL.md` — мета-промпт скилла.
 
-### 📁 `constitution/` — 34 модуля
+### 📁 `constitution/` — 54 файла
 
 **Основа:**
 - `-1-theory-of-change.md` — теория перехода
@@ -332,7 +332,7 @@
 **Для жителя:** устав, труд (03a), э-демократия (02a).
 **Для команды:** дорожная карта (25), чек-лист (26), участок (31).
 
-**Все модули:** constitution/ - 37 файлов.
+**Все модули:** constitution/ - 54 файла.
 **Опыт:** experience/lessons.md - 22 урока.
 **Справочники:** reference/ - 12 файлов.
 
