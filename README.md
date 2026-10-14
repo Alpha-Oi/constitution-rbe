@@ -1,6 +1,11 @@
-# constitution-rbe v3.0
+# constitution-rbe v3.13
 
-Концептуальный проект конституции и свода законов для **greenfield-города «Город F»** на основе ресурсо-ориентированной экономики (RBE) Жака Фреско (The Venus Project).
+![Version](https://img.shields.io/badge/version-3.13-blue)
+![Files](https://img.shields.io/badge/files-71-green)
+![Modules](https://img.shields.io/badge/modules-37-orange)
+![Status](https://img.shields.io/badge/status-concept-yellow)
+![License](https://img.shields.io/badge/license-conceptual-lightgrey)
+
 
 **Пилот:** новый город 5–10 тыс. → 50–100 тыс. человек в Краснодарском крае.
 **Переходная модель:** Гибрид F (безусловный минимум + трудовые баллы + дивиденды города).
@@ -309,3 +314,23 @@
 ## Дата
 
 2026-10-14
+
+---
+
+## Навигация
+
+**Главное:**
+- [VISUAL.md](VISUAL.md) - диаграммы проекта
+- [constitution/03-text.md](constitution/03-text.md) - устав
+- [constitution/04-treaty-consortium.md](constitution/04-treaty-consortium.md) - договор
+- [constitution/38-business-plan.md](constitution/38-business-plan.md) - бизнес-план
+- [constitution/30-numbers.md](constitution/30-numbers.md) - расчёты
+
+**Для спонсора:** бизнес-план, финансы, договор, VISUAL.
+**Для юриста:** устав, законы, чек-лист (26), минимум прав.
+**Для жителя:** устав, труд (03a), э-демократия (02a).
+**Для команды:** дорожная карта (25), чек-лист (26), участок (31).
+
+**Все модули:** constitution/ - 37 файлов.
+**Опыт:** experience/lessons.md - 22 урока.
+**Справочники:** reference/ - 12 файлов.
