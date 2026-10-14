@@ -1,11 +1,12 @@
-# constitution-rbe v3.36
+# constitution-rbe v3.36.2
 
-![Version](https://img.shields.io/badge/version-3.36-blue)
+Город F — концептуальный проект greenfield-города на основе ресурсо-ориентированной экономики (RBE, Жак Фреско). 49 модулей: устав, экономика, комфорт, автономия, международная стратегия (ОАЭ, Мексика, Казахстан), агро- и культурная адаптация, работа с фондами. Открыто для обсуждения.
+
+![Version](https://img.shields.io/badge/version-3.36.2-blue)
 ![Files](https://img.shields.io/badge/files-84-green)
 ![Modules](https://img.shields.io/badge/modules-49-orange)
 ![Status](https://img.shields.io/badge/status-complete-yellow)
 ![License](https://img.shields.io/badge/license-conceptual-lightgrey)
-
 
 **Пилот:** новый город 5–10 тыс. → 50–100 тыс. человек в Краснодарском крае.
 **Переходная модель:** Гибрид F (безусловный минимум + трудовые баллы + дивиденды города).
