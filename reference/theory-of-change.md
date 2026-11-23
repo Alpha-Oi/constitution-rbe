@@ -1,5 +1,3 @@
-> **Связь с проектом:** См. модуль [-1-theory-of-change.md](../constitution/-1-theory-of-change.md).
-
 # Теория перехода (этап −1)
 
 ## Вопросы
@@ -13,4 +11,3 @@
 
 ## Формат
 `constitution/-1-theory-of-change.md`. Без ответа — этап 0 не запускается.
-

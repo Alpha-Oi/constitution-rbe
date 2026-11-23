@@ -1,5 +1,3 @@
-> **Связь с проектом:** См. модули [20-data-privacy.md](../constitution/20-data-privacy.md), [02a-e-democracy.md](../constitution/02a-e-democracy.md).
-
 # Управление ИИ
 
 ## Запрещено ИИ
@@ -22,4 +20,3 @@
 - Социальный рейтинг.
 - Массовая биометрия.
 - ИИ в судействе.
-
